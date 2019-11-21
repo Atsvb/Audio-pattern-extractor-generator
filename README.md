@@ -13,7 +13,7 @@ This new audio can be exported as a wav file in the Jupyter Notebook or played i
 
 ## In the Supercollider program pattern_player.scd:
 
-We take play what is generated in the previous Jupyter Notebook:
+We take play what is generated in the previous notebook.
 
 ## In the notebook convexidad-concavidad.ipynb:
 
